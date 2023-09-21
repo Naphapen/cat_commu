@@ -1,7 +1,13 @@
 # cat_commu
 
-A new Flutter project.
+First Flutter project.
+------------------------------------------------------
 
+CatCummu or Cat Community is Mobile Application for a cat lover ❤️❤️
+
+👉 Is first project that are not related to the company is project private, Try doing it.
+
+------------------------------------------------------
 ## Getting Started
 
 This project is a starting point for a Flutter application.
